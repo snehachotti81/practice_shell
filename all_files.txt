@@ -1,0 +1,14 @@
+01_basic.sh*
+02_comments.sh*
+03_vari.sh
+04_array.sh*
+05_keyvaluepairarray.sh*
+21_12_2023*
+all_files.txt
+elif_file.sh*
+elif_file.txt
+for_loop1.sh*
+for_loop_array.sh*
+iter_file.sh*
+logical_operator.sh*
+names.txt
