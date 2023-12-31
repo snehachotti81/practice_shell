@@ -1,0 +1,14 @@
+#!/bin/bash
+
+read -p "enter marks:" marks
+
+if [[ $marks -ge 80 ]] 
+then
+	echo "1st division"
+elif [[ $marks -ge 60 ]]
+then
+	echo "2nd division"
+else
+	echo "fail"
+fi
+
